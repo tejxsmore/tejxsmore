@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [tejasmore.vercel.app](tejasmore.vercel.app)
-
 - 📫 How to reach me **tejasmore1104@outlook.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [superanime](https://superanime.vercel.app)
 
-- 🔗 I’m currently learning **Blockchain**
+- 🔗 I’m currently learning **Backend**
 
 - 📫 How to reach me **tejasmore1104@gmail.com**
 

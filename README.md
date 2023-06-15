@@ -11,7 +11,7 @@
 
 - 🔗 I’m currently learning **Frontend frameworks**
 
-- 📫 How to reach me **tejasmore1104@outlook.com**
+- 📫 How to reach me **tejasmore1104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

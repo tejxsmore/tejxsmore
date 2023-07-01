@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [sneakerspot](https://sneakerspot.vercel.app)
 
-- 🔗 I’m currently learning **Frontend frameworks**
+- 🔗 I’m currently learning **Backend Frameworks**
 
 - 📫 How to reach me **tejasmore1104@gmail.com**
 

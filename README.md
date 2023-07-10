@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tejxsmore" target="blank"><img src="https://img.shields.io/twitter/follow/tejxsmore?logo=twitter&style=for-the-badge" alt="tejxsmore" /></a> </p>
 
-- 🔭 I’m currently working on [sneakerspot](https://sneakerspot.vercel.app)
+- 🔭 I’m currently working on [sneakeo](https://sneako.vercel.app)
 
-- 🔗 I’m currently learning **Backend Frameworks**
+- 🔗 I’m currently learning **Databases**
 
 - 📫 How to reach me **tejasmore1104@outlook.com**
 

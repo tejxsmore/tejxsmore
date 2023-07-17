@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejxsmore" target="blank"><img src="https://img.shields.io/twitter/follow/tejxsmore?logo=twitter&style=for-the-badge" alt="tejxsmore" /></a> </p>
 
-- 🔭 I’m currently working on [sneakeo](https://sneako.vercel.app)
+- 🔭 I’m currently working on [BLOGIFYI](https://blogifyi.vercel.app)
 
 - 🔗 I’m currently learning **Databases**
 

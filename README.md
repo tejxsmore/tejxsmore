@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [BLOGIFYI](https://blogifyi.vercel.app)
 
-- 🔗 I’m currently learning **Databases**
+- 🔗 I’m currently learning **App Development**
 
-- 📫 How to reach me **tejasmore1104@gmail.com**
+- 📫 How to reach me **tejasmoreoffice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
